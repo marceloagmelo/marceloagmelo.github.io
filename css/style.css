@@ -51,20 +51,20 @@ section.module.parallax h1 {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 section.module.parallax-1 {
-  background-image: url("../img/demo/_small/casa-inteligente.png");
+  background-image: url("https://raw.githubusercontent.com/marceloagmelo/marceloagmelo.github.io/master/img/demo/_small/casa-inteligente.png");
   //background-size: contain;
 }
 
 section.module.parallax-2 {
-  background-image: url("../img/demo/_small/foto-01.jpg");
+  background-image: url("https://raw.githubusercontent.com/marceloagmelo/marceloagmelo.github.io/master/img/demo/_small/foto-01.jpg");
 }
 
 section.module.parallax-3 {
-  background-image: url("../img/demo/_small/foto-02.jpg");
+  background-image: url("https://raw.githubusercontent.com/marceloagmelo/marceloagmelo.github.io/master/img/demo/_small/foto-02.jpg");
 }
 
 section.module.parallax-contato {
-  background-image: url("../img/demo/_small/contato.jpg");
+  background-image: url("https://raw.githubusercontent.com/marceloagmelo/marceloagmelo.github.io/master/img/demo/_small/contato.jpg");
 }
 
 .sem-texto{
